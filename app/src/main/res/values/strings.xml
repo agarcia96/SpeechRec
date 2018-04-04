@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Speech Recognition Demo</string>
+    <string name="hint">Tap the mic to begin!</string>
+</resources>

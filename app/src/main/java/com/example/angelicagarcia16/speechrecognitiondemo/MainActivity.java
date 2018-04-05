@@ -22,7 +22,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    // constants
+    // constants and fields
     private static final int REQ_CODE_SPEECH_INPUT = 100;
     private TextView mVoiceInputTv;
     private ImageButton mSpeakBtn;

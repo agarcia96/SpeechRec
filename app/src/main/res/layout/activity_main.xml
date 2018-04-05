@@ -41,7 +41,7 @@
             android:src="@drawable/ic_microphone_2" />
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/promptTV"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/btnSpeak"
